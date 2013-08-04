@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnonySocial</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="info">Info</string>
+    <string name="recent_adds">Recent Adds</string>
+    <string name="recent_msgs">Recent Messages</string>
+    <string name="recent_notfs">Recent Notifications</string>
+    
+    <string-array name="main_left_menu_itens">
+        <item>Principal</item>
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+
+</resources>

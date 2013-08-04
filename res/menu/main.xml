@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/recent_adds"
+          android:icon="@drawable/ic_action_guy_fawkes_225x225"
+          android:title="@string/recent_adds"
+          android:showAsAction="always" 
+          />
+    
+    <item android:id="@+id/recent_msgs"
+          android:icon="@drawable/ic_action_ic_message"
+          android:title="@string/recent_msgs"
+          android:showAsAction="always" 
+          />
+    
+    <item android:id="@+id/recent_notfs"
+          android:icon="@drawable/ic_action_guy_fawkes_225x225"
+          android:title="@string/recent_notfs"
+          android:showAsAction="always" 
+          />
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings" />
+
+</menu>
